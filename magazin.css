@@ -1,0 +1,39 @@
+.magazin{
+    /* background: #feecc5; */
+    background-color: rgb(243, 243, 165);
+    
+}
+h1{
+    /* color: rgb(0, 0, 0); */
+    font-size:4em;
+    text-shadow:
+    -1px -5px 0 rgb(80, 80, 80),  
+    -6px -5px 0 rgb(80, 80, 80);
+    /* -1px 0px 0 rgb(80, 80, 80); */
+    /* 1px 1px 0 rgb(255, 255, 255); */
+}
+
+.mag_element{
+    width: 90%;
+}
+#intro{
+    color: rgb(234, 92, 31);
+}
+#pescuit{
+    color: rgb(25, 162, 253);
+    /* background-image: url(./imag_grid/IMG-20210322-WA0014.jpg); */
+}
+#drumetie{
+    color: rgb(65, 211, 48);
+    /* background-image: url(./imag_grid/IMG-20210322-WA0015.jpg); */
+}
+#vanatoare{
+    color: rgb(246, 163, 19);
+    /* background-image: url(./imag_grid/IMG-20210322-WA0016.jpg); */
+}
+
+/* .maga_txt{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+} */
