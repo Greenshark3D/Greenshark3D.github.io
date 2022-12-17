@@ -21,9 +21,10 @@ div.cell_poze {
     /* border: 2px solid rgb(0, 0, 0); */
     /* border-radius: 10px;
     padding: 0px; */ 
-    height: 30vh;
-    width: 30vh;
+    height: 20em;
+    width: 100%;
     overflow: hidden;
+    border-radius: 1em;
 }
 
 /* (C) SPAN MULTIPLE COLUMNS */
