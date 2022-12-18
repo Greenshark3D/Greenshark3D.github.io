@@ -29,14 +29,15 @@ h1{
     color: rgb(110, 75, 16);
     /* background-image: url(./imag_grid/IMG-20210322-WA0016.jpg); */
 }
-.img_mag{
-    width: 90vh;
+
+
+@media (orientation: landscape) {
+    .img_mag{
+        width: 60%;    
 }
-
-
-
-/* .maga_txt{
-    position: absolute;
-    top: 8px;
-    left: 16px;
-} */
+}
+@media (orientation: portrait) {
+    .img_mag{
+    width: 100%;
+    }
+}
