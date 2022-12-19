@@ -6,18 +6,20 @@ nav{
 
 }
 nav > .nav-section{
-    padding: 0.2rem 0.2rem;
+    padding: 0.4rem 0.4rem;
     display: flex;
     gap: 1rem;
-    border-left: 1px solid black;
+    /* border-left: 0.3em solid black; */
     align-items: center;
     justify-content: center;
 
 }
 #nav-logo-section{
-    flex-basis: calc(100%/12);
+    flex-basis: calc(100%/8);
 }
-
+#search-section{
+    flex-basis: calc(100%/8);
+}
 #nav-link-section{
     flex-grow: 1;
 }

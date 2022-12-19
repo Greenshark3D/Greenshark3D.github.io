@@ -22,12 +22,15 @@ h1{
     /* background-image: url(./imag_grid/IMG-20210322-WA0014.jpg); */
 }
 #drumetie{
-    color: rgb(51, 169, 38);
+    color: rgb(40, 131, 30);
     /* background-image: url(./imag_grid/IMG-20210322-WA0015.jpg); */
 }
 #vanatoare{
     color: rgb(110, 75, 16);
     /* background-image: url(./imag_grid/IMG-20210322-WA0016.jpg); */
+}
+.img_mag{
+    border-radius: 2em;
 }
 
 
